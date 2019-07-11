@@ -1,5 +1,5 @@
 function callMe() {
-  console.log(maybe);
+  console.log("maybe");
 }
 
 callMe();
